@@ -1,0 +1,13 @@
+# Files
+.DS_Store
+*.pyc
+*.pyo
+*.swp
+*~
+
+# Directories
+*.egg-info/
+*__pycache__/
+build/
+dist/
+.tox/
